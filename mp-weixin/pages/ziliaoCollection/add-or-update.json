@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#4477C5",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "阅读资料收藏添加",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}

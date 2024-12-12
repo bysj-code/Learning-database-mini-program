@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#4477C5",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "观看记录展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
